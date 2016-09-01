@@ -1,0 +1,27 @@
+{
+  "name": "node-interview-prep",
+  "version": "1.0.0",
+  "description": "Basic Scaffolding for Interviews Preparations",
+  "main": "app/shouter.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "chai": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "watch": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EqualExperts/node-interview-prep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EqualExperts/node-interview-prep/issues"
+  },
+  "homepage": "https://github.com/EqualExperts/node-interview-prep#readme"
+}
